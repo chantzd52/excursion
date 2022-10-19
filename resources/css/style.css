@@ -18,3 +18,13 @@ h1 {
     font-size: 1rem;
     text-align: center;
 }
+
+#phone {
+    display: flex;
+    flex-shrink: 2;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
