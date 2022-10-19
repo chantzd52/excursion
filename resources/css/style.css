@@ -1,6 +1,9 @@
+
 html {
     background-color: black;
     font-size: 16px;
+    text-align: center;
+    color: white;
 }
 
 header {
@@ -13,7 +16,18 @@ h1 {
     font-size: 3.12rem;
 }
 
-.coming-soon {
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+p {
+    font-size: 1.312rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.coming-soon h2 {
     color: aquamarine;
     font-size: 1rem;
     text-align: center;
@@ -28,3 +42,12 @@ h1 {
     justify-content: center;
 }
 
+.icon {
+    display: block;
+    margin-top: 1.25rem;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
