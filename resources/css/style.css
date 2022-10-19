@@ -33,6 +33,14 @@ p {
     text-align: center;
 }
 
+.coming-soon :hover {
+    color: white;
+}
+
+a {
+    color: black;
+}
+
 #phone {
     display: flex;
     flex-shrink: 2;
